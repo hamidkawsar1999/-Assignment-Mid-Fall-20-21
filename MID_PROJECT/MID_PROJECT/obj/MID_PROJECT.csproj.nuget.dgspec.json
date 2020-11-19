@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#\\Practice\\MID_PROJECT\\MID_PROJECT\\MID_PROJECT.csproj": {}
+  },
+  "projects": {
+    "D:\\C#\\Practice\\MID_PROJECT\\MID_PROJECT\\MID_PROJECT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Practice\\MID_PROJECT\\MID_PROJECT\\MID_PROJECT.csproj",
+        "projectName": "MID_PROJECT",
+        "projectPath": "D:\\C#\\Practice\\MID_PROJECT\\MID_PROJECT\\MID_PROJECT.csproj",
+        "packagesPath": "C:\\Users\\Kawsar Hamid\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Practice\\MID_PROJECT\\MID_PROJECT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kawsar Hamid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

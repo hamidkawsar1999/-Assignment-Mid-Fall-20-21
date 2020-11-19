@@ -1,0 +1,13 @@
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\bin\Debug\netcoreapp3.1\MID_PROJECT.exe
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\bin\Debug\netcoreapp3.1\MID_PROJECT.deps.json
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\bin\Debug\netcoreapp3.1\MID_PROJECT.runtimeconfig.json
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\bin\Debug\netcoreapp3.1\MID_PROJECT.runtimeconfig.dev.json
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\bin\Debug\netcoreapp3.1\MID_PROJECT.dll
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\bin\Debug\netcoreapp3.1\MID_PROJECT.pdb
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\obj\Debug\netcoreapp3.1\MID_PROJECT.csprojAssemblyReference.cache
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\obj\Debug\netcoreapp3.1\MID_PROJECT.AssemblyInfoInputs.cache
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\obj\Debug\netcoreapp3.1\MID_PROJECT.AssemblyInfo.cs
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\obj\Debug\netcoreapp3.1\MID_PROJECT.csproj.CoreCompileInputs.cache
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\obj\Debug\netcoreapp3.1\MID_PROJECT.dll
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\obj\Debug\netcoreapp3.1\MID_PROJECT.pdb
+D:\C#\Practice\MID_PROJECT\MID_PROJECT\obj\Debug\netcoreapp3.1\MID_PROJECT.genruntimeconfig.cache
